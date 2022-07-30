@@ -1,13 +1,17 @@
-#one {
-
+#two {
+    color: #0000FF;
+    font-size: 36px;
 }
 
-#two {
+#four {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
 
 }
 
 #three {
-    font-size: x-large;
+    font-size: 24px;
 }
 p {
     background-color: #ffcccb;
