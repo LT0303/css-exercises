@@ -45,6 +45,12 @@ body {
   padding: 32px;
 }
 
+.content {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+}
+
 ul {
   list-style: none;
 }
