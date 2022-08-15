@@ -32,4 +32,21 @@ a {
 
 ul {
   list-style: none;
+  padding: 0;
+}
+
+.header {
+  display: flex;
+  padding: 16px;
+  justify-content: space-between;
+}
+
+.left-links {
+  display: flex;
+  margin-right: auto;
+}
+
+.right-links {
+  display: flex;
+  margin-left: auto;
 }
